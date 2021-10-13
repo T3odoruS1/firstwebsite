@@ -1,0 +1,49 @@
+html, body {
+    background-color: #999;
+}
+h1{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    text-align: center;
+}
+h2{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+
+}
+p {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+img {
+    border-radius: 8px;
+    width: 400px;
+    height: auto;
+    rotation: 90deg;
+
+}
+div{
+    display: inline-block;
+    vertical-align: top;
+    align-content: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+table{
+    align-content: center;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+td{
+
+    border-left: solid 2px;
+    border-bottom: solid 2px;
+    border-right: solid 2px;
+}
+th{
+    border-left: solid 2px;
+    border-bottom: solid 2px;
+    border-top: solid 2px;
+    border-right: solid 2px;
+}
+.centre{
+    margin-right: auto;
+    margin-left: auto;
+}
